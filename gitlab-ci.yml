@@ -8,4 +8,5 @@ postman_tests:
           entrypoint: [""]
       script:
            -newman --version
+           
       
